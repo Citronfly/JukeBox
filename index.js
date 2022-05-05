@@ -1,7 +1,7 @@
 //SERVER TING 
 //kommenter følgende linjer
 const axios = require('axios');
-const auth = "BQBaZ0uBpSoaGKI9-WgMfPk9sGr4ze-IIgiMVCkVyL-QfcvJV7d0ZPh1QSj_Kak3SiIB-U1L6IxsSJy8fX-Qy6U89vUEa1uOZlRdIPWKrfQrTpvF8d_UTnUj8FXekg_MJ7jVTJTIqGviuv74xHLAnxtkbQ";
+const auth = "BQCHMEqZ5VdEElBINKkLhbSWrvUhOPUrU4nIOABeLHDP2su907mBTAgutDbRV1SUViplURXw_1n-DKoMbB0yMgPA14QTBiZbJDCt2PHHw2beufsl0KCy3uXbB4JxcRK_rO1glGFmnJ4OlG5U9JnGRPTD6A";
 
 const express = require('express')
 const app = express()
